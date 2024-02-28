@@ -1,0 +1,17 @@
+/* p{
+    color: crimson;
+} */
+/* bintang berarti universal */
+
+*{
+    padding: 0;
+    margin : 0;
+}
+
+#avanza{
+    color: blue;
+} 
+
+.merah{
+    color:red;
+}
